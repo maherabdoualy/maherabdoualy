@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maherabdoualy
 - 👀 I’m interested in becoming a Software Developper 
-- 🌱 I’m currently on my fourth year of Computer Science at Wayne State University, Detroit, Michigan.
+- 🌱 I'm currently building up my react portfolio to land a Frontend developer role!
 - 📫 To reach me, email me at maherabdaly@gmail.com
 
 <!---
